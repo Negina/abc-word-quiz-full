@@ -1,0 +1,182 @@
+*{
+    outline: none;
+}
+
+body {
+  font-family: 'Didact Gothic', sans-serif;
+  color: rgb(110,139,192);
+}
+
+.support-text{
+    margin-top: 5px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    color: #66CDAA;
+}
+.header{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.unit-header{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+.unit-grid{
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 30px;
+    gap: 1rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+.unit {
+    height: auto;
+    width: 200px;
+    border: 3px #6988c3 solid;
+    border-radius: 20px;
+    text-align: center;
+    margin: auto;
+    background-color: #e6eff1;
+    font-size: 30px;
+    font-weight: 900;
+    vertical-align: middle;
+    line-height: 5rem;
+    cursor: pointer;
+
+}
+
+
+button{
+    border: none;
+}
+.container{
+    width: 75%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.main{
+    text-decoration: none;
+    color: #DDA0DD;
+    font-size: 15px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.praise{
+    text-decoration: none;
+    color: #DDA0DD;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.score {
+  margin-top: 20px;
+}
+
+.grid{
+    margin-top: 10px;
+    margin-left: 10px;
+
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    gap: 30px;
+}
+
+.img {
+  border-radius: 30%;
+}
+.grid button{
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(213, 213, 213, 0.65);
+    cursor: pointer;
+    transition-duration: .3s;
+}
+
+.grid button:hover{
+    background-color: rgba(169, 169, 169, 0.65);
+}
+
+.grid .correct{
+    background-color: rgba(46, 188, 20, 0.92);
+    color: white;
+    border: 8px solid #3CB371;
+}
+
+.grid .highlight{
+    background-color: rgba(46, 188, 20, 0.92);
+    color: white;
+    border: 8px solid #E8E8E8;
+}
+
+.grid .correct:hover{
+    background-color: rgb(30, 221, 110);
+    color: white;
+}
+
+.grid .incorrect{
+    background-color: rgb(217, 9, 9);
+    color: white;
+    border: 8px solid #DC143C;
+
+}
+
+.grid .incorrect:hover{
+    background-color:rgb(248, 9, 9);
+    color: white;
+}
+
+.next{
+    margin-top: 20px;
+    padding: 15px 40px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(110,139,192);
+    cursor: pointer;
+    transition-duration: .3ms;
+}
+
+.next:hover{
+    background-color:rgba(13, 74, 246, 0.78);
+}
+
+.hide{
+    display: none;
+}
+
+@media (min-width: 600px) {
+  .unit-grid{
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+    .grid{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .unit-grid{
+        grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 420px) {
+    .grid{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .unit-grid{
+        grid-template-columns: repeat(1, 1fr);
+    }
+  }
