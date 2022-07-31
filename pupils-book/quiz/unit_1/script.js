@@ -1,7 +1,7 @@
 let songs = [
     {
         title: "1",
-        src: "/audio/1.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/o/one/one_B/one_British_English_pronunciation.mp3",
         options: [
             {name: "1", src: "../../img/1.png", correct: true},
             {name: "3", src: "../../img/3.png", correct: false},
@@ -12,7 +12,7 @@ let songs = [
 
     {
         title: "2",
-        src: "/audio/2.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/t/two/two_B/two_British_English_pronunciation.mp3",
         options: [
             {name: "4", src: "../../img/4.png", correct: false},
             {name: "2", src: "../../img/2.png", correct: true},
@@ -22,7 +22,7 @@ let songs = [
     },
     {
         title: "3",
-        src: "/audio/3.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/t/thr/three/three_British_English_pronunciation.mp3",
         options: [
             {name: "3", src: "../../img/3.png", correct: true},
             {name: "6", src: "../../img/6.png", correct: false},
@@ -33,7 +33,7 @@ let songs = [
 
     {
         title: "4",
-        src: "/audio/4.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/f/fou/four_/four_British_English_pronunciation_78190.mp3",
         options: [
             {name: "8", src: "../../img/8.png", correct: false},
             {name: "4", src: "../../img/4.png", correct: true},
@@ -43,7 +43,7 @@ let songs = [
     },
     {
         title: "5",
-        src: "/audio/5.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/f/fiv/five_/five_British_English_pronunciation.mp3",
         options: [
             {name: "5", src: "../../img/5.png", correct: true},
             {name: "2", src: "../../img/2.png", correct: false},
@@ -54,7 +54,7 @@ let songs = [
 
     {
         title: "6",
-        src: "/audio/6.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/s/six/six_B/six_British_English_pronunciation.mp3",
         options: [
             {name: "7", src: "../../img/7.png", correct: false},
             {name: "8", src: "../../img/8.png", correct: false},
@@ -64,7 +64,7 @@ let songs = [
     },
     {
         title: "7",
-        src: "/audio/7.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/s/sev/seven/seven_British_English_pronunciation.mp3",
         options: [
             {name: "6", src: "../../img/6.png", correct: false},
             {name: "7", src: "../../img/7.png", correct: true},
@@ -74,7 +74,7 @@ let songs = [
     },
     {
         title: "8",
-        src: "/audio/8.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/e/eig/eight/eight_British_English_pronunciation.mp3",
         options: [
             {name: "8", src: "../../img/8.png", correct: true},
             {name: "6", src: "../../img/6.png", correct: false},
@@ -84,7 +84,7 @@ let songs = [
     },
     {
         title: "9",
-        src: "/audio/9.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/n/nin/nine_/nine_British_English_pronunciation.mp3",
         options: [
             {name: "8", src: "../../img/8.png", correct: false},
             {name: "9", src: "../../img/9.png", correct: true},
@@ -94,7 +94,7 @@ let songs = [
     },
     {
         title: "10",
-        src: "/audio/10.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/t/ten/ten_B/ten_British_English_pronunciation.mp3",
         options: [
             {name: "10", src: "../../img/10.png", correct: true},
             {name: "2", src: "../../img/2.png", correct: false},

@@ -1,7 +1,7 @@
 let songs = [
     {
         title: "angry",
-        src: "/audio/angry.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/a/ang/angry/angry_British_English_pronunciation.mp3",
         options: [
             {name: "angry", src: "../../img/angry.png", correct: true},
             {name: "scared", src: "../../img/scared.png", correct: false},
@@ -12,7 +12,7 @@ let songs = [
 
     {
         title: "happy",
-        src: "/audio/happy.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/h/hap/happy/happy_British_English_pronunciation_80837.mp3",
         options: [
             {name: "hot", src: "../../img/hot.png", correct: false},
             {name: "happy", src: "../../img/happy.png", correct: true},
@@ -22,7 +22,7 @@ let songs = [
     },
     {
         title: "sad",
-        src: "/audio/sad.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/s/sad/sad_B/sad_British_English_pronunciation.mp3",
         options: [
             {name: "sad", src: "../../img/sad.png", correct: true},
             {name: "scared", src: "../../img/scared.png", correct: false},
@@ -33,7 +33,7 @@ let songs = [
 
     {
         title: "scared",
-        src: "/audio/scared.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/s/sca/scare/scared_British_English_pronunciation.mp3",
         options: [
             {name: "sick", src: "../../img/sick.png", correct: false},
             {name: "scared", src: "../../img/scared.png", correct: true},
@@ -43,7 +43,7 @@ let songs = [
     },
     {
         title: "sick",
-        src: "/audio/sick.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/s/sic/sick_/sick_British_English_pronunciation_97879.mp3",
         options: [
             {name: "sad", src: "../../img/sad.png", correct: false},
             {name: "sick", src: "../../img/sick.png", correct: true},
@@ -53,7 +53,7 @@ let songs = [
     },
     {
         title: "hot",
-        src: "/audio/hot.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/h/hot/hot_B/hot_British_English_pronunciation_81860.mp3",
         options: [
             {name: "cold", src: "../../img/cold.png", correct: false},
             {name: "hot", src: "../../img/hot.png", correct: true},
@@ -63,7 +63,7 @@ let songs = [
     },
     {
         title: "cold",
-        src: "/audio/cold.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/c/col/cold_/cold_British_English_pronunciation_68192.mp3",
         options: [
             {name: "hot", src: "../../img/hot.png", correct: false},
             {name: "sick", src: "../../img/sick.png", correct: false},
@@ -73,7 +73,7 @@ let songs = [
     },
     {
         title: "tired",
-        src: "/audio/tired.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/t/tir/tired/tired_British_English_pronunciation.mp3",
         options: [
             {name: "angry", src: "../../img/angry.png", correct: false},
             {name: "happy", src: "../../img/happy.png", correct: false},

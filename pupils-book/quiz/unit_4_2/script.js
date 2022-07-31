@@ -5,7 +5,7 @@ let songs = [
         options: [
             {name: "red", src: "../../img/red.png", correct: true},
             {name: "brown", src: "../../img/brown.png", correct: false},
-            {name: "blue", src: "../../img/blue.png", correct: false},
+            {name: "pink", src: "../../img/pink.png", correct: false},
             {name: "orange", src: "../../img/orange.png", correct: false}
         ]
     },
@@ -35,9 +35,9 @@ let songs = [
         title: "blue",
         src: "https://www.macmillandictionary.com/media/british/uk_pron/b/blu/blue_/blue_British_English_pronunciation_71384.mp3",
         options: [
-            {name: "green", src: "../../img/green.png", correct: false},
+            {name: "pink", src: "../../img/pink.png", correct: false},
             {name: "blue", src: "../../img/blue.png", correct: true},
-            {name: "yellow", src: "../../img/yellow.png", correct: false},
+            {name: "purple", src: "../../img/purple.png", correct: false},
             {name: "red", src: "../../img/red.png", correct: false}
         ]
     },
@@ -48,7 +48,7 @@ let songs = [
             {name: "orange", src: "../../img/orange.png", correct: false},
             {name: "green", src: "../../img/green.png", correct: true},
             {name: "brown", src: "../../img/brown.png", correct: false},
-            {name: "red", src: "../../img/red.png", correct: false}
+            {name: "yellow", src: "../../img/yellow.png", correct: false}
         ]
     },
     {
@@ -60,8 +60,27 @@ let songs = [
             {name: "brown", src: "../../img/brown.png", correct: false},
             {name: "red", src: "../../img/red.png", correct: false}
         ]
+    },
+    {
+        title: "purple",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/p/pur/purpl/purple_British_English_pronunciation_93697.mp3",
+        options: [
+            {name: "pink", src: "../../img/pink.png", correct: false},
+            {name: "purple", src: "../../img/purple.png", correct: true},
+            {name: "blue", src: "../../img/blue.png", correct: false},
+            {name: "red", src: "../../img/red.png", correct: false}
+        ]
+    },
+    {
+        title: "pink",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/p/pin/pink_/pink_British_English_pronunciation_91701.mp3",
+        options: [
+            {name: "purple", src: "../../img/purple.png", correct: false},
+            {name: "pink", src: "../../img/pink.png", correct: true},
+            {name: "brown", src: "../../img/brown.png", correct: false},
+            {name: "red", src: "../../img/red.png", correct: false}
+        ]
     }
-
 ];
 let playerContainer = document.querySelector(".playerContainer"),
     player = document.querySelector(".player"),

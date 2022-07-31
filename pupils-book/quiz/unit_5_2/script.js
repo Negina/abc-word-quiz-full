@@ -14,7 +14,7 @@ let songs = [
         title: "jumper",
         src: "https://www.macmillandictionary.com/media/british/uk_pron/j/jum/jumpe/jumper_British_English_pronunciation.mp3",
         options: [
-            {name: "trousers", src: "../../img/trousers.png", correct: false},
+            {name: "shirt", src: "../../img/shirt.png", correct: false},
             {name: "jumper", src: "../../img/jumper.png", correct: true},
             {name: "T-shirt", src: "../../img/tshirt.png", correct: false},
             {name: "skirt", src: "../../img/skirt.png", correct: false}
@@ -26,8 +26,8 @@ let songs = [
         options: [
             {name: "shoes", src: "../../img/shoes.png", correct: true},
             {name: "trousers", src: "../../img/trousers.png", correct: false},
-            {name: "skirt", src: "../../img/skirt.png", correct: false},
-            {name: "T-shirt", src: "../../img/tshirt.png", correct: false}
+            {name: "socks", src: "../../img/socks.png", correct: false},
+            {name: "shirt", src: "../../img/shirt.png", correct: false}
         ]
     },
 
@@ -37,8 +37,8 @@ let songs = [
         options: [
             {name: "shoes", src: "../../img/shoes.png", correct: false},
             {name: "skirt", src: "../../img/skirt.png", correct: true},
-            {name: "dress", src: "../../img/dress.png", correct: false},
-            {name: "shoes", src: "../../img/shoes.png", correct: false}
+            {name: "shirt", src: "../../img/shirt.png", correct: false},
+            {name: "socks", src: "../../img/socks.png", correct: false}
         ]
     },
     {
@@ -46,9 +46,9 @@ let songs = [
         src: "https://www.macmillandictionary.com/media/british/uk_pron/t/tro/trous/trousers_British_English_pronunciation.mp3",
         options: [
             {name: "trousers", src: "../../img/trousers.png", correct: true},
-            {name: "T-shirt", src: "../../img/tshirt.png", correct: false},
+            {name: "socks", src: "../../img/socks.png", correct: false},
             {name: "jumper", src: "../../img/jumper.png", correct: false},
-            {name: "dress", src: "../../img/dress.png", correct: false}
+            {name: "shoes", src: "../../img/shoes.png", correct: false}
         ]
     },
     {
@@ -58,7 +58,27 @@ let songs = [
             {name: "T-shirt", src: "../../img/tshirt.png", correct: true},
             {name: "shoes", src: "../../img/shoes.png", correct: false},
             {name: "skirt", src: "../../img/skirt.png", correct: false},
+            {name: "shirt", src: "../../img/shirt.png", correct: false}
+        ]
+    },
+    {
+        title: "socks",
+        src: "https://d1qx7pbj0dvboc.cloudfront.net/socks.mp3",
+        options: [
+            {name: "socks", src: "../../img/socks.png", correct: true},
+            {name: "shoes", src: "../../img/shoes.png", correct: false},
+            {name: "skirt", src: "../../img/skirt.png", correct: false},
             {name: "trousers", src: "../../img/trousers.png", correct: false}
+        ]
+    },
+    {
+        title: "shirt",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/s/shi/shirt/shirt_British_English_pronunciation.mp3",
+        options: [
+            {name: "T-shirt", src: "../../img/tshirt.png", correct: false},
+            {name: "shoes", src: "../../img/shoes.png", correct: false},
+            {name: "skirt", src: "../../img/skirt.png", correct: false},
+            {name: "shirt", src: "../../img/shirt.png", correct: true}
         ]
     }
 ];

@@ -48,7 +48,7 @@ let songs = [
             {name: "grandma", src: "../../img/grandma.png", correct: true},
             {name: "mummy", src: "../../img/mummy.png", correct: false},
             {name: "grandpa", src: "../../img/grandpa.png", correct: false},
-            {name: "daddy", src: "../../img/daddy.png", correct: false}
+            {name: "aunt", src: "../../img/daddy.png", correct: false}
         ]
     },
     {
@@ -58,7 +58,27 @@ let songs = [
             {name: "grandma", src: "../../img/grandma.png", correct: false},
             {name: "grandpa", src: "../../img/grandpa.png", correct: true},
             {name: "mummy", src: "../../img/mummy.png", correct: false},
+            {name: "uncle", src: "../../img/daddy.png", correct: false}
+        ]
+    },
+    {
+        title: "aunt",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/g/gra/grand/grandma_British_English_pronunciation.mp3",
+        options: [
+            {name: "grandma", src: "../../img/grandma.png", correct: true},
+            {name: "sister", src: "../../img/mummy.png", correct: false},
+            {name: "uncle", src: "../../img/grandpa.png", correct: false},
             {name: "daddy", src: "../../img/daddy.png", correct: false}
+        ]
+    },
+    {
+        title: "uncle",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/g/gra/grand/grandpa_British_English_pronunciation.mp3",
+        options: [
+            {name: "grandma", src: "../../img/grandma.png", correct: false},
+            {name: "brother", src: "../../img/grandpa.png", correct: true},
+            {name: "aunt", src: "../../img/mummy.png", correct: false},
+            {name: "sister", src: "../../img/sister.png", correct: false}
         ]
     }
 ];

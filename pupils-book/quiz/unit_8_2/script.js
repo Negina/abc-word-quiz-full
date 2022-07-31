@@ -4,7 +4,7 @@ let songs = [
         src: "https://www.macmillandictionary.com/media/british/uk_pron/c/cow/cow_B/cow_British_English_pronunciation_69465.mp3",
         options: [
             {name: "cow", src: "../../img/cow.png", correct: true},
-            {name: "goat", src: "../../img/goat.png", correct: false},
+            {name: "sheep", src: "../../img/sheep.png", correct: false},
             {name: "horse", src: "../../img/horse.png", correct: false},
             {name: "donkey", src: "../../img/donkey.png", correct: false}
         ]
@@ -17,7 +17,7 @@ let songs = [
             {name: "cow", src: "../../img/cow.png", correct: false},
             {name: "goat", src: "../../img/goat.png", correct: true},
             {name: "horse", src: "../../img/horse.png", correct: false},
-            {name: "donkey", src: "../../img/donkey.png", correct: false}
+            {name: "sheep", src: "../../img/sheep.png", correct: false}
         ]
     },
     {
@@ -27,7 +27,7 @@ let songs = [
             {name: "horse", src: "../../img/horse.png", correct: true},
             {name: "goat", src: "../../img/goat.png", correct: false},
             {name: "donkey", src: "../../img/donkey.png", correct: false},
-            {name: "rooster", src: "../../img/rooster.png", correct: false}
+            {name: "sheep", src: "../../img/sheep.png", correct: false}
         ]
     },
 
@@ -48,7 +48,7 @@ let songs = [
             {name: "rooster", src: "../../img/rooster.png", correct: true},
             {name: "duck", src: "../../img/duck.png", correct: false},
             {name: "horse", src: "../../img/horse.png", correct: false},
-            {name: "cow", src: "../../img/cow.png", correct: false}
+            {name: "rabbit", src: "../../img/rabbit.png", correct: false}
         ]
     },
     {
@@ -58,10 +58,29 @@ let songs = [
             {name: "donkey", src: "../../img/donkey.png", correct: false},
             {name: "duck", src: "../../img/duck.png", correct: true},
             {name: "rooster", src: "../../img/rooster.png", correct: false},
-            {name: "cow", src: "../../img/cow.png", correct: false}
+            {name: "rabbit", src: "../../img/rabbit.png", correct: false}
+        ]
+    },
+    {
+        title: "rabbit",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/r/rab/rabbi/rabbit_British_English_pronunciation_93787.mp3",
+        options: [
+            {name: "rabbit", src: "../../img/rabbit.png", correct: true},
+            {name: "duck", src: "../../img/duck.png", correct: false},
+            {name: "sheep", src: "../../img/sheep.png", correct: false},
+            {name: "rooster", src: "../../img/rooster.png", correct: false}
+        ]
+    },
+    {
+        title: "sheep",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/s/she/sheep/sheep_British_English_pronunciation.mp3",
+        options: [
+            {name: "rabbit", src: "../../img/rabbit.png", correct: false},
+            {name: "sheep", src: "../../img/sheep.png", correct: true},
+            {name: "cow", src: "../../img/cow.png", correct: false},
+            {name: "horse", src: "../../img/horse.png", correct: false}
         ]
     }
-
 
 ];
 let playerContainer = document.querySelector(".playerContainer"),

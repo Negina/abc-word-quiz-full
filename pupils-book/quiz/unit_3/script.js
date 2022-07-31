@@ -1,7 +1,7 @@
 let songs = [
     {
         title: "backpack",
-        src: "/audio/backpack.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/b/bac/backp/backpack_British_English_pronunciation.mp3",
         options: [
             {name: "backpack", src: "../../img/backpack.png", correct: true},
             {name: "pencil case", src: "../../img/pencilcase.png", correct: false},
@@ -12,7 +12,7 @@ let songs = [
 
     {
         title: "book",
-        src: "/audio/book.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/b/boo/book_/book_British_English_pronunciation_71629.mp3",
         options: [
             {name: "notebook", src: "../../img/notebook.png", correct: false},
             {name: "book", src: "../../img/book.png", correct: true},
@@ -22,7 +22,7 @@ let songs = [
     },
     {
         title: "crayon",
-        src: "/audio/crayon.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/c/cra/crayo/crayon_British_English_pronunciation_69566.mp3",
         options: [
             {name: "crayon", src: "../../img/crayon.png", correct: true},
             {name: "pencil case", src: "../../img/pencilcase.png", correct: false},
@@ -33,7 +33,7 @@ let songs = [
 
     {
         title: "notebook",
-        src: "/audio/notebook.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/n/not/noteb/notebook_British_English_pronunciation.mp3",
         options: [
             {name: "book", src: "../../img/book.png", correct: false},
             {name: "notebook", src: "../../img/notebook.png", correct: true},
@@ -43,7 +43,7 @@ let songs = [
     },
     {
         title: "pencil case",
-        src: "/audio/pencilcase.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/p/pen/penci/pencil_case_British_English_pronunciation_105890558.mp3",
         options: [
             {name: "crayon", src: "../../img/crayon.png", correct: false},
             {name: "pencil case", src: "../../img/pencilcase.png", correct: true},
@@ -53,7 +53,7 @@ let songs = [
     },
     {
         title: "rubber",
-        src: "/audio/rubber.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/r/rub/rubbe/rubber_British_English_pronunciation.mp3",
         options: [
             {name: "pencil case", src: "../../img/pencilcase.png", correct: false},
             {name: "rubber", src: "../../img/rubber.png", correct: true},

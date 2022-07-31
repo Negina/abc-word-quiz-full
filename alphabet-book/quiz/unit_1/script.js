@@ -12,7 +12,7 @@ let songs = [
 
     {
         title: "apple",
-        src: "/audio/apple.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/a/app/apple/apple_British_English_pronunciation.mp3",
         options: [
             {name: "ball", src: "../../img/ball.png", correct: false},
             {name: "apple", src: "../../img/apple.png", correct: true},
@@ -22,7 +22,7 @@ let songs = [
     },
     {
         title: "bag",
-        src: "/audio/bag.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/b/bag/bag_B/bag_British_English_pronunciation_72614.mp3",
         options: [
             {name: "bag", src: "../../img/bag.png", correct: true},
             {name: "ball", src: "../../img/ball.png", correct: false},
@@ -33,7 +33,7 @@ let songs = [
 
     {
         title: "ball",
-        src: "/audio/ball.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/b/bal/ball_/ball_British_English_pronunciation_72620.mp3",
         options: [
             {name: "ant", src: "../../img/ant.png", correct: false},
             {name: "ball", src: "../../img/ball.png", correct: true},
@@ -43,7 +43,7 @@ let songs = [
     },
     {
         title: "car",
-        src: "/audio/car.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/c/car/car_B/car_British_English_pronunciation.mp3",
         options: [
             {name: "car", src: "../../img/car.png", correct: true},
             {name: "apple", src: "../../img/apple.png", correct: false},
@@ -54,7 +54,7 @@ let songs = [
 
     {
         title: "cat",
-        src: "/audio/cat.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/c/cat/cat_B/cat_British_English_pronunciation.mp3",
         options: [
             {name: "ant", src: "../../img/ant.png", correct: false},
             {name: "bag", src: "../../img/bag.png", correct: false},

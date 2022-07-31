@@ -70,6 +70,67 @@ let songs = [
             {name: "head", src: "../../img/head.png", correct: false},
             {name: "hair", src: "../../img/hair.png", correct: false}
         ]
+    },
+    {
+        title: "leg",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/l/leg/leg_B/leg_British_English_pronunciation_84911.mp3",
+        options: [
+            {name: "leg", src: "../../img/leg.png", correct: true},
+            {name: "hand", src: "../../img/hand.png", correct: false},
+            {name: "finger", src: "../../img/finger.png", correct: false},
+            {name: "head", src: "../../img/head.png", correct: false}
+        ]
+    },
+
+    {
+        title: "hand",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/h/han/hand_/hand_British_English_pronunciation_80751.mp3",
+        options: [
+            {name: "finger", src: "../../img/finger.png", correct: false},
+            {name: "hand", src: "../../img/hand.png", correct: true},
+            {name: "head", src: "../../img/head.png", correct: false},
+            {name: "hair", src: "../../img/hair.png", correct: false}
+        ]
+    },
+    {
+        title: "finger",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/f/fin/finge/finger_British_English_pronunciation_77291.mp3",
+        options: [
+            {name: "finger", src: "../../img/finger.png", correct: true},
+            {name: "hand", src: "../../img/hand.png", correct: false},
+            {name: "leg", src: "../../img/leg.png", correct: false},
+            {name: "hair", src: "../../img/hair.png", correct: false}
+        ]
+    },
+    {
+        title: "black",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/b/bla/black/black_British_English_pronunciation_71120.mp3",
+        options: [
+            {name: "black", src: "../../img/black.png", correct: true},
+            {name: "white", src: "../../img/white.png", correct: false},
+            {name: "brown", src: "../../img/brown.png", correct: false},
+            {name: "blue", src: "../../img/blue.png", correct: false}
+        ]
+    },
+    {
+        title: "white",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/w/whi/white/white_British_English_pronunciation_105798.mp3",
+        options: [
+            {name: "white", src: "../../img/white.png", correct: true},
+            {name: "black", src: "../../img/black.png", correct: false},
+            {name: "yellow", src: "../../img/yellow.png", correct: false},
+            {name: "purple", src: "../../img/purple.png", correct: false}
+        ]
+    },
+    {
+        title: "brown",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/b/bro/brown/brown_British_English_pronunciation_72181.mp3",
+        options: [
+            {name: "brown", src: "../../img/brown.png", correct: true},
+            {name: "white", src: "../../img/white.png", correct: false},
+            {name: "black", src: "../../img/black.png", correct: false},
+            {name: "pink", src: "../../img/pink.png", correct: false}
+        ]
     }
 ];
 let playerContainer = document.querySelector(".playerContainer"),
