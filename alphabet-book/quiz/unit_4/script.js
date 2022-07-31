@@ -1,7 +1,7 @@
 let songs = [
     {
         title: "jug",
-        src: "../../audio/jug.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/j/jug/jug_B/jug_British_English_pronunciation.mp3",
         options: [
             {name: "jug", src: "../../img/jug.png", correct: true},
             {name: "jump", src: "../../img/jump.png", correct: false},
@@ -12,7 +12,7 @@ let songs = [
 
     {
         title: "jump",
-        src: "../../audio/jump.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/j/jum/jump_/jump_British_English_pronunciation_82508.mp3",
         options: [
             {name: "kick", src: "../../img/kick.png", correct: false},
             {name: "jump", src: "../../img/jump.png", correct: true},
@@ -22,7 +22,7 @@ let songs = [
     },
     {
         title: "kick",
-        src: "../../audio/kick.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/k/kic/kick_/kick_British_English_pronunciation_84231.mp3",
         options: [
             {name: "kick", src: "../../img/kick.png", correct: true},
             {name: "jump", src: "../../img/jump.png", correct: false},
@@ -33,7 +33,7 @@ let songs = [
 
     {
         title: "king",
-        src: "../../audio/king.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/k/kin/king_/king_British_English_pronunciation.mp3",
         options: [
             {name: "kick", src: "../../img/kick.png", correct: false},
             {name: "king", src: "../../img/king.png", correct: true},
@@ -43,7 +43,7 @@ let songs = [
     },
     {
         title: "legs",
-        src: "../../audio/legs.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/l/leg/legs_/legs_British_English_pronunciation.mp3",
         options: [
             {name: "legs", src: "../../img/legs.png", correct: true},
             {name: "jump", src: "../../img/jump.png", correct: false},
@@ -53,7 +53,7 @@ let songs = [
     },
     {
         title: "house",
-        src: "../../audio/house.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/h/hou/house/house_British_English_pronunciation_81907.mp3",
         options: [
             {name: "hat", src: "../../img/hat.png", correct: false},
             {name: "house", src: "../../img/house.png", correct: true},
@@ -63,7 +63,7 @@ let songs = [
     },
     {
         title: "elephant",
-        src: "../../audio/elephant.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/e/ele/eleph/elephant_British_English_pronunciation.mp3",
         options: [
             {name: "lion", src: "../../img/lion.png", correct: false},
             {name: "elephant", src: "../../img/elephant.png", correct: true},
@@ -73,7 +73,7 @@ let songs = [
     },
     {
         title: "lion",
-        src: "../../audio/lion.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/l/lio/lion_/lion_British_English_pronunciation.mp3",
         options: [
             {name: "cat", src: "../../img/cat.png", correct: false},
             {name: "legs", src: "../../img/legs.png", correct: false},

@@ -1,7 +1,7 @@
 let songs = [
     {
         title: "doll",
-        src: "../../audio/doll.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/d/dol/doll_/doll_British_English_pronunciation_74445.mp3",
         options: [
             {name: "doll", src: "../../img/doll.png", correct: true},
             {name: "dress", src: "../../img/dress.png", correct: false},
@@ -12,7 +12,7 @@ let songs = [
 
     {
         title: "dress",
-        src: "../../audio/dress.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/d/dre/dress/dress_British_English_pronunciation.mp3",
         options: [
             {name: "elephant", src: "../../img/elephant.png", correct: false},
             {name: "dress", src: "../../img/dress.png", correct: true},
@@ -22,7 +22,7 @@ let songs = [
     },
     {
         title: "elephant",
-        src: "../../audio/elephant.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/e/ele/eleph/elephant_British_English_pronunciation.mp3",
         options: [
             {name: "elephant", src: "../../img/elephant.png", correct: true},
             {name: "five", src: "../../img/five.png", correct: false},
@@ -33,7 +33,7 @@ let songs = [
 
     {
         title: "egg",
-        src: "../../audio/egg.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/e/egg/egg_B/egg_British_English_pronunciation_75399.mp3",
         options: [
             {name: "bag", src: "../../img/bag.png", correct: false},
             {name: "egg", src: "../../img/egg.png", correct: true},
@@ -43,7 +43,7 @@ let songs = [
     },
     {
         title: "frog",
-        src: "../../audio/frog.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/f/fro/frog_/frog_British_English_pronunciation.mp3",
         options: [
             {name: "doll", src: "../../img/doll.png", correct: false},
             {name: "frog", src: "../../img/frog.png", correct: true},
@@ -54,7 +54,7 @@ let songs = [
 
     {
         title: "five",
-        src: "../../audio/five.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/f/fiv/five_/five_British_English_pronunciation.mp3",
         options: [
             {name: "elephant", src: "../../img/elephant.png", correct: false},
             {name: "frog", src: "../../img/frog.png", correct: false},

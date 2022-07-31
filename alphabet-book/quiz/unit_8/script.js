@@ -1,7 +1,7 @@
 let songs = [
     {
         title: "window",
-        src: "../../audio/window.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/w/win/windo/window_British_English_pronunciation.mp3",
         options: [
             {name: "window", src: "../../img/window.png", correct: true},
             {name: "worm", src: "../../img/worm.png", correct: false},
@@ -12,7 +12,7 @@ let songs = [
 
     {
         title: "worm",
-        src: "../../audio/worm.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/w/wor/worm_/worm_British_English_pronunciation_106297.mp3",
         options: [
             {name: "window", src: "../../img/window.png", correct: false},
             {name: "worm", src: "../../img/worm.png", correct: true},
@@ -22,7 +22,7 @@ let songs = [
     },
     {
         title: "fox",
-        src: "../../audio/fox.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/f/fox/fox_B/fox_British_English_pronunciation_78212.mp3",
         options: [
             {name: "fox", src: "../../img/fox.png", correct: true},
             {name: "box", src: "../../img/box.png", correct: false},
@@ -33,7 +33,7 @@ let songs = [
 
     {
         title: "box",
-        src: "../../audio/box.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/b/box/box_B/box_British_English_pronunciation_71822.mp3",
         options: [
             {name: "fox", src: "../../img/fox.png", correct: false},
             {name: "box", src: "../../img/box.png", correct: true},
@@ -43,7 +43,7 @@ let songs = [
     },
     {
         title: "yellow",
-        src: "../../audio/yellow.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/y/yel/yello/yellow_British_English_pronunciation_106515.mp3",
         options: [
             {name: "yellow", src: "../../img/yellow.png", correct: true},
             {name: "yoghurt", src: "../../img/yoghurt.png", correct: false},
@@ -53,7 +53,7 @@ let songs = [
     },
     {
         title: "yoghurt",
-        src: "../../audio/yoghurt.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/y/yog/yoghu/yoghurt_British_English_pronunciation.mp3",
         options: [
             {name: "yellow", src: "../../img/yellow.png", correct: false},
             {name: "yoghurt", src: "../../img/yoghurt.png", correct: true},
@@ -63,7 +63,7 @@ let songs = [
     },
     {
         title: "zoo",
-        src: "../../audio/zoo.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/z/zoo/zoo_B/zoo_British_English_pronunciation.mp3",
         options: [
             {name: "zoo", src: "../../img/zoo.png", correct: true},
             {name: "zookeeper", src: "../../img/zookeeper.png", correct: false},
@@ -73,7 +73,7 @@ let songs = [
     },
     {
         title: "zookeeper",
-        src: "../../audio/zookeeper.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/z/zoo/zoo_k/zoo_keeper_British_English_pronunciation.mp3",
         options: [
             {name: "king", src: "../../img/king.png", correct: false},
             {name: "zookeeper", src: "../../img/zookeeper.png", correct: true},
@@ -83,7 +83,7 @@ let songs = [
     },
     {
         title: "doll",
-        src: "../../audio/doll.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/d/dol/doll_/doll_British_English_pronunciation_74445.mp3",
         options: [
             {name: "doll", src: "../../img/doll.png", correct: true},
             {name: "ball", src: "../../img/ball.png", correct: false},
@@ -93,7 +93,7 @@ let songs = [
     },
     {
         title: "van",
-        src: "../../audio/van.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/v/van/van_B/van_British_English_pronunciation.mp3",
         options: [
             {name: "car", src: "../../img/car.png", correct: false},
             {name: "worm", src: "../../img/worm.png", correct: false},

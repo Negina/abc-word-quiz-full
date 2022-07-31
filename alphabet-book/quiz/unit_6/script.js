@@ -1,7 +1,7 @@
 let songs = [
     {
         title: "panda",
-        src: "../../audio/panda.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/p/pan/panda/panda_British_English_pronunciation.mp3",
         options: [
             {name: "panda", src: "../../img/panda.png", correct: true},
             {name: "pink", src: "../../img/pink.png", correct: false},
@@ -12,7 +12,7 @@ let songs = [
 
     {
         title: "pink",
-        src: "../../audio/pink.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/p/pin/pink_/pink_British_English_pronunciation_91701.mp3",
         options: [
             {name: "panda", src: "../../img/panda.png", correct: false},
             {name: "pink", src: "../../img/pink.png", correct: true},
@@ -22,7 +22,7 @@ let songs = [
     },
     {
         title: "queen",
-        src: "../../audio/queen.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/q/que/queen/queen_British_English_pronunciation_95947.mp3",
         options: [
             {name: "queen", src: "../../img/queen.png", correct: true},
             {name: "king", src: "../../img/king.png", correct: false},
@@ -33,7 +33,7 @@ let songs = [
 
     {
         title: "question",
-        src: "../../audio/question.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/q/que/quest/question_British_English_pronunciation_95965.mp3",
         options: [
             {name: "queen", src: "../../img/queen.png", correct: false},
             {name: "question", src: "../../img/question.png", correct: true},
@@ -43,7 +43,7 @@ let songs = [
     },
     {
         title: "robot",
-        src: "../../audio/robot.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/r/rob/robot/robot_British_English_pronunciation.mp3",
         options: [
             {name: "robot", src: "../../img/robot.png", correct: true},
             {name: "rubber", src: "../../img/rubber.png", correct: false},
@@ -53,7 +53,7 @@ let songs = [
     },
     {
         title: "bag",
-        src: "../../audio/bag.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/b/bag/bag_B/bag_British_English_pronunciation_72614.mp3",
         options: [
             {name: "panda", src: "../../img/panda.png", correct: false},
             {name: "bag", src: "../../img/bag.png", correct: true},
@@ -63,7 +63,7 @@ let songs = [
     },
     {
         title: "frog",
-        src: "../../audio/frog.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/f/fro/frog_/frog_British_English_pronunciation.mp3",
         options: [
             {name: "frog", src: "../../img/frog.png", correct: true},
             {name: "jump", src: "../../img/jump.png", correct: false},
@@ -73,7 +73,7 @@ let songs = [
     },
     {
         title: "rubber",
-        src: "../../audio/rubber.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/r/rub/rubbe/rubber_British_English_pronunciation.mp3",
         options: [
             {name: "robot", src: "../../img/robot.png", correct: false},
             {name: "doll", src: "../../img/doll.png", correct: false},

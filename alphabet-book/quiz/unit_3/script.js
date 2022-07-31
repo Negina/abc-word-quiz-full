@@ -1,7 +1,7 @@
 let songs = [
     {
         title: "goat",
-        src: "../../audio/goat.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/g/goa/goat_/goat_British_English_pronunciation.mp3",
         options: [
             {name: "goat", src: "../../img/goat.png", correct: true},
             {name: "elephant", src: "../../img/elephant.png", correct: false},
@@ -12,7 +12,7 @@ let songs = [
 
     {
         title: "green",
-        src: "../../audio/green.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/g/gre/green/green_British_English_pronunciation_79868.mp3",
         options: [
             {name: "egg", src: "../../img/egg.png", correct: false},
             {name: "green", src: "../../img/green.png", correct: true},
@@ -22,7 +22,7 @@ let songs = [
     },
     {
         title: "hat",
-        src: "../../audio/hat.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/h/hat/hat_B/hat_British_English_pronunciation.mp3",
         options: [
             {name: "hat", src: "../../img/hat.png", correct: true},
             {name: "house", src: "../../img/house.png", correct: false},
@@ -33,7 +33,7 @@ let songs = [
 
     {
         title: "house",
-        src: "../../audio/house.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/h/hou/house/house_British_English_pronunciation_81907.mp3",
         options: [
             {name: "hat", src: "../../img/hat.png", correct: false},
             {name: "house", src: "../../img/house.png", correct: true},
@@ -53,7 +53,7 @@ let songs = [
     },
     {
         title: "ant",
-        src: "../../audio/ant.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/a/ant/ant_B/ant_British_English_pronunciation.mp3",
         options: [
             {name: "ant", src: "../../img/ant.png", correct: true},
             {name: "insect", src: "../../img/insect.png", correct: false},
@@ -63,7 +63,7 @@ let songs = [
     },
     {
         title: "igloo",
-        src: "../../audio/igloo.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/i/igl/igloo/igloo_British_English_pronunciation.mp3",
         options: [
             {name: "house", src: "../../img/house.png", correct: false},
             {name: "egg", src: "../../img/egg.png", correct: false},

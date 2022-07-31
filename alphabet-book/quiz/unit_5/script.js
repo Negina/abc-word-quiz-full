@@ -1,7 +1,7 @@
 let songs = [
     {
         title: "mountain",
-        src: "../../audio/mountain.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/m/mou/mount/mountain_British_English_pronunciation.mp3",
         options: [
             {name: "mountain", src: "../../img/mountain.png", correct: true},
             {name: "monkey", src: "../../img/monkey.png", correct: false},
@@ -12,7 +12,7 @@ let songs = [
 
     {
         title: "monkey",
-        src: "../../audio/monkey.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/m/mon/monke/monkey_British_English_pronunciation_87486.mp3",
         options: [
             {name: "mountain", src: "../../img/mountain.png", correct: false},
             {name: "monkey", src: "../../img/monkey.png", correct: true},
@@ -22,7 +22,7 @@ let songs = [
     },
     {
         title: "nine",
-        src: "../../audio/nine.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/n/nin/nine_/nine_British_English_pronunciation.mp3",
         options: [
             {name: "nine", src: "../../img/nine.png", correct: true},
             {name: "five", src: "../../img/five.png", correct: false},
@@ -33,7 +33,7 @@ let songs = [
 
     {
         title: "nut",
-        src: "../../audio/nut.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/n/nut/nut_B/nut_British_English_pronunciation_89061.mp3",
         options: [
             {name: "nine", src: "../../img/nine.png", correct: false},
             {name: "nut", src: "../../img/nut.png", correct: true},
@@ -43,7 +43,7 @@ let songs = [
     },
     {
         title: "octopus",
-        src: "../../audio/octopus.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/o/oct/octop/octopus_British_English_pronunciation_89244.mp3",
         options: [
             {name: "octopus", src: "../../img/octopus.png", correct: true},
             {name: "insect", src: "../../img/insect.png", correct: false},
@@ -53,7 +53,7 @@ let songs = [
     },
     {
         title: "car",
-        src: "../../audio/car.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/c/car/car_B/car_British_English_pronunciation.mp3",
         options: [
             {name: "car", src: "../../img/car.png", correct: true},
             {name: "cat", src: "../../img/cat.png", correct: false},
@@ -63,7 +63,7 @@ let songs = [
     },
     {
         title: "jump",
-        src: "../../audio/jump.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/j/jum/jump_/jump_British_English_pronunciation_82508.mp3",
         options: [
             {name: "jump", src: "../../img/jump.png", correct: true},
             {name: "orange", src: "../../img/orange.png", correct: false},
@@ -73,7 +73,7 @@ let songs = [
     },
     {
         title: "orange",
-        src: "../../audio/orange.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/o/ora/orang/orange_British_English_pronunciation_89665.mp3",
         options: [
             {name: "octopus", src: "../../img/octopus.png", correct: false},
             {name: "apple", src: "../../img/apple.png", correct: false},

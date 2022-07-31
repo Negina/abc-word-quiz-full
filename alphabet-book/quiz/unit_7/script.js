@@ -1,7 +1,7 @@
 let songs = [
     {
         title: "see",
-        src: "../../audio/see.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/s/see/see_B/see_British_English_pronunciation_96983.mp3",
         options: [
             {name: "see", src: "../../img/see.png", correct: true},
             {name: "sun", src: "../../img/sun.png", correct: false},
@@ -12,7 +12,7 @@ let songs = [
 
     {
         title: "sun",
-        src: "../../audio/sun.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/s/sun/sun_B/sun_British_English_pronunciation_109446.mp3",
         options: [
             {name: "see", src: "../../img/see.png", correct: false},
             {name: "sun", src: "../../img/sun.png", correct: true},
@@ -22,7 +22,7 @@ let songs = [
     },
     {
         title: "tired",
-        src: "../../audio/tired.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/t/tir/tired/tired_British_English_pronunciation.mp3",
         options: [
             {name: "tired", src: "../../img/tired.png", correct: true},
             {name: "tiger", src: "../../img/tiger.png", correct: false},
@@ -33,7 +33,7 @@ let songs = [
 
     {
         title: "tiger",
-        src: "../../audio/tiger.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/t/tig/tiger/tiger_British_English_pronunciation.mp3",
         options: [
             {name: "tired", src: "../../img/tired.png", correct: false},
             {name: "tiger", src: "../../img/tiger.png", correct: true},
@@ -43,7 +43,7 @@ let songs = [
     },
     {
         title: "under",
-        src: "../../audio/under.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/u/und/under/under_British_English_pronunciation_103709.mp3",
         options: [
             {name: "under", src: "../../img/under.png", correct: true},
             {name: "umbrella", src: "../../img/umbrella.png", correct: false},
@@ -53,7 +53,7 @@ let songs = [
     },
     {
         title: "umbrella",
-        src: "../../audio/umbrella.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/u/umb/umbre/umbrella_British_English_pronunciation_103529.mp3",
         options: [
             {name: "under", src: "../../img/under.png", correct: false},
             {name: "umbrella", src: "../../img/umbrella.png", correct: true},
@@ -63,7 +63,7 @@ let songs = [
     },
     {
         title: "van",
-        src: "../../audio/van.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/v/van/van_B/van_British_English_pronunciation.mp3",
         options: [
             {name: "van", src: "../../img/van.png", correct: true},
             {name: "vase", src: "../../img/vase.png", correct: false},
@@ -73,7 +73,7 @@ let songs = [
     },
     {
         title: "question",
-        src: "../../audio/question.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/q/que/quest/question_British_English_pronunciation_95965.mp3",
         options: [
             {name: "queen", src: "../../img/queen.png", correct: false},
             {name: "question", src: "../../img/question.png", correct: true},
@@ -83,7 +83,7 @@ let songs = [
     },
     {
         title: "mountain",
-        src: "../../audio/mountain.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/m/mou/mount/mountain_British_English_pronunciation.mp3",
         options: [
             {name: "mountain", src: "../../img/mountain.png", correct: true},
             {name: "umbrella", src: "../../img/umbrella.png", correct: false},
@@ -93,7 +93,7 @@ let songs = [
     },
     {
         title: "vase",
-        src: "../../audio/vase.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/v/vas/vase_/vase_British_English_pronunciation.mp3",
         options: [
             {name: "van", src: "../../img/van.png", correct: false},
             {name: "jug", src: "../../img/jug.png", correct: false},

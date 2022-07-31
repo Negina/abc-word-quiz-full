@@ -1,7 +1,7 @@
 let songs = [
     {
         title: "box",
-        src: "../../audio/box.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/b/box/box_B/box_British_English_pronunciation_71822.mp3",
         options: [
             {name: "box", src: "../../img/box.png", correct: true},
             {name: "ball", src: "../../img/ball.png", correct: false},
@@ -12,7 +12,7 @@ let songs = [
 
     {
         title: "egg",
-        src: "../../audio/egg.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/e/egg/egg_B/egg_British_English_pronunciation_75399.mp3",
         options: [
             {name: "nut", src: "../../img/nut.png", correct: false},
             {name: "egg", src: "../../img/egg.png", correct: true},
@@ -22,7 +22,7 @@ let songs = [
     },
     {
         title: "house",
-        src: "../../audio/house.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/h/hou/house/house_British_English_pronunciation_81907.mp3",
         options: [
             {name: "house", src: "../../img/house.png", correct: true},
             {name: "window", src: "../../img/window.png", correct: false},
@@ -33,7 +33,7 @@ let songs = [
 
     {
         title: "elephant",
-        src: "../../audio/elephant.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/e/ele/eleph/elephant_British_English_pronunciation.mp3",
         options: [
             {name: "fox", src: "../../img/fox.png", correct: false},
             {name: "elephant", src: "../../img/elephant.png", correct: true},
@@ -43,7 +43,7 @@ let songs = [
     },
     {
         title: "legs",
-        src: "../../audio/legs.mp3",
+        src: "https://d1qx7pbj0dvboc.cloudfront.net/legs.mp3",
         options: [
             {name: "legs", src: "../../img/legs.png", correct: true},
             {name: "umbrella", src: "../../img/umbrella.png", correct: false},
@@ -53,7 +53,7 @@ let songs = [
     },
     {
         title: "mountain",
-        src: "../../audio/mountain.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/m/mou/mount/mountain_British_English_pronunciation.mp3",
         options: [
             {name: "sun", src: "../../img/sun.png", correct: false},
             {name: "mountain", src: "../../img/mountain.png", correct: true},
@@ -63,7 +63,7 @@ let songs = [
     },
     {
         title: "octopus",
-        src: "../../audio/octopus.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/o/oct/octop/octopus_British_English_pronunciation_89244.mp3",
         options: [
             {name: "octopus", src: "../../img/octopus.png", correct: true},
             {name: "worm", src: "../../img/worm.png", correct: false},
@@ -73,7 +73,7 @@ let songs = [
     },
     {
         title: "zoo",
-        src: "../../audio/zoo.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/z/zoo/zoo_B/zoo_British_English_pronunciation.mp3",
         options: [
             {name: "king", src: "../../img/king.png", correct: false},
             {name: "zoo", src: "../../img/zoo.png", correct: true},
@@ -83,7 +83,7 @@ let songs = [
     },
     {
         title: "queen",
-        src: "../../audio/queen.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/q/que/queen/queen_British_English_pronunciation_95947.mp3",
         options: [
             {name: "queen", src: "../../img/queen.png", correct: true},
             {name: "doll", src: "../../img/doll.png", correct: false},
@@ -93,7 +93,7 @@ let songs = [
     },
     {
         title: "bag",
-        src: "../../audio/bag.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/b/bag/bag_B/bag_British_English_pronunciation_72614.mp3",
         options: [
             {name: "box", src: "../../img/box.png", correct: false},
             {name: "bag", src: "../../img/bag.png", correct: true},
@@ -103,7 +103,7 @@ let songs = [
     },
     {
         title: "car",
-        src: "../../audio/car.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/c/car/car_B/car_British_English_pronunciation.mp3",
         options: [
             {name: "car", src: "../../img/car.png", correct: true},
             {name: "van", src: "../../img/van.png", correct: false},
@@ -113,7 +113,7 @@ let songs = [
     },
     {
         title: "umbrella",
-        src: "../../audio/umbrella.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/u/umb/umbre/umbrella_British_English_pronunciation_103529.mp3",
         options: [
             {name: "sun", src: "../../img/sun.png", correct: false},
             {name: "rubber", src: "../../img/rubber.png", correct: false},
