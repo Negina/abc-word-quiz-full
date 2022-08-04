@@ -43,7 +43,7 @@ let songs = [
     },
     {
         title: "insect",
-        src: "../../audio/insect.mp3",
+        src: "https://www.macmillandictionary.com/media/british/uk_pron/i/ins/insec/insect_British_English_pronunciation.mp3",
         options: [
             {name: "ant", src: "../../img/ant.png", correct: false},
             {name: "insect", src: "../../img/insect.png", correct: true},
