@@ -1,7 +1,7 @@
 let songs = [
     {
         title: "come in",
-        src: "audio/come.mp3",
+        src: "../audio/come.mp3",
         options: [
             {name: "come in", src: "../../img/come.png", correct: true},
             {name: "sit down", src: "../../img/sit.png", correct: false},
@@ -12,7 +12,7 @@ let songs = [
 
     {
         title: "close your book",
-        src: "audio/close.mp3",
+        src: "../audio/close.mp3",
         options: [
             {name: "open your book", src: "../../img/open.png", correct: false},
             {name: "close your book", src: "../../img/close.png", correct: true},
@@ -22,7 +22,7 @@ let songs = [
     },
     {
         title: "open your book",
-        src: "audio/open.mp3",
+        src: "../audio/open.mp3",
         options: [
             {name: "open your book", src: "../../img/open.png", correct: true},
             {name: "close your book", src: "../../img/close.png", correct: false},
@@ -33,7 +33,7 @@ let songs = [
 
     {
         title: "listen",
-        src: "audio/listen.mp3",
+        src: "../audio/listen.mp3",
         options: [
             {name: "look", src: "../../img/look.png", correct: false},
             {name: "listen", src: "../../img/listen.png", correct: true},
@@ -43,7 +43,7 @@ let songs = [
     },
     {
         title: "look",
-        src: "audio/look.mp3",
+        src: "../audio/look.mp3",
         options: [
             {name: "look", src: "../../img/look.png", correct: true},
             {name: "sing", src: "../../img/sing.png", correct: false},
@@ -53,7 +53,7 @@ let songs = [
     },
     {
         title: "sit down",
-        src: "audio/sit.mp3",
+        src: "../audio/sit.mp3",
         options: [
             {name: "stand up", src: "../../img/stand.png", correct: false},
             {name: "sit down", src: "../../img/sit.png", correct: true},
@@ -63,7 +63,7 @@ let songs = [
     },
     {
         title: "stand up",
-        src: "audio/stand.mp3",
+        src: "../audio/stand.mp3",
         options: [
             {name: "stand up", src: "../../img/stand.png", correct: true},
             {name: "sit down", src: "../../img/sit.png", correct: false},
@@ -73,7 +73,7 @@ let songs = [
     },
     {
         title: "sing",
-        src: "audio/sing.mp3",
+        src: "../audio/sing.mp3",
         options: [
             {name: "look", src: "../../img/look.png", correct: false},
             {name: "sing", src: "../../img/sing.png", correct: true},
